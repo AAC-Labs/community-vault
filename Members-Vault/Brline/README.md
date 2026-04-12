@@ -5,7 +5,7 @@ Welcome to my personal vault in **Root Node**. Here I track my daily progress an
 ---
 
 ## 🚀 Featured Projects (In this Organization)
-* **[SQL Server Code Generator](https://github.com/RootNode1/sql-server-code-generator)**
+* **[SQL Server Code Generator](https://github.com/brl63/sql-server-code-genreator)**
   > A powerful desktop tool built with C# & WinForms to automate ADO.NET code generation.
 
 ---
