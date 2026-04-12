@@ -1,10 +1,10 @@
-# 🚀 Root Node Community | The Collective Vault
+# 🚀 AAC Labs Community | The Collective Vault
 
-![GitHub License](https://img.shields.io/github/license/RootNode1/community-vault?style=flat-square&color=blue)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/RootNode1/community-vault?style=flat-square&color=green)
+![GitHub License](https://img.shields.io/github/license/AAC-Labs/community-vault?style=flat-square&color=blue)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/AAC-Labs/community-vault?style=flat-square&color=green)
 ![Members](https://img.shields.io/badge/Members-20+-orange?style=flat-square)
 
-Welcome to **Root Node**. This is our central hub for technical excellence, engineering mindset, and collaborative building.
+Welcome to **AAC Labs**. This is our central hub for technical excellence, engineering mindset, and collaborative building.
 
 ---
 
