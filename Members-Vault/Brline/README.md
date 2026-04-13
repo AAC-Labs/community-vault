@@ -1,6 +1,6 @@
 # 🧑‍💻 Ahmed El-Gaml | Backend Developer
 
-Welcome to my personal vault in **Root Node**. Here I track my daily progress and showcase my technical projects.
+Welcome to my personal vault in **AAC Labs**. Here I track my daily progress and showcase my technical projects.
 
 ---
 
@@ -9,7 +9,7 @@ Welcome to my personal vault in **Root Node**. Here I track my daily progress an
 * **[SQL Server Code Generator](https://github.com/brl63/sql-server-code-genreator)**
   > A powerful desktop tool built with C# & WinForms to automate ADO.NET code generation.
 
-* **[Tic Tac Toe Web Game](https://github.com/RootNode1/tictactoeweb)**
+* **[Tic Tac Toe Web Game](https://github.com/brl63/tictactoeweb-Rovan_Mohammed)**
   > A classic game built with HTML, CSS, and JavaScript. 
   > **[Play Now!](https://brl63.github.io/tictactoeweb-Rovan_Mohammed/)**
   
