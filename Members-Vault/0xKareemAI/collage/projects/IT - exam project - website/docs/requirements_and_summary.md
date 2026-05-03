@@ -52,9 +52,11 @@ We have successfully developed a fully functional, responsive, and visually appe
 - `index.html`: The landing page showcasing the primary heading hierarchy and key features.
 - `about.html`: Contains the project objectives, an **Ordered List**, and a **Table** for the project schedule.
 - `contact.html`: Features the **Contact Form** and integrates the validation logic.
-- `style.css`: The external stylesheet providing the core design system.
-- `script.js`: The JavaScript logic for real-time form validation.
-- `assets/`: Directory containing the university logo.
+- `assets/css/style.css`: The external stylesheet providing the core design system.
+- `assets/js/script.js`: The JavaScript logic for real-time form validation.
+- `assets/img/`: Directory containing the university logo.
+- `docs/`: Documentation folder containing the original Lab Exam PDF and this summary.
+- `README.md`: Project overview and setup instructions.
 
 ### 🛠️ Key Technical Implementations
 1.  **Multi-Page Navigation**: A consistent navbar was implemented across all pages using semantic `<nav>` elements, ensuring easy transitions between Home, About, and Contact.
