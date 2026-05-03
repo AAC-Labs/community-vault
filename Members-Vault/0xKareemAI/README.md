@@ -10,7 +10,8 @@ Welcome to my corner of the **AAC Community Vault**. This is where I track my pr
 ## 🛠 My Workspace
 | Directory | Description |
 | :--- | :--- |
-| `projects/` | Ongoing and finished projects |
+| `collage/` | Academic and exam projects |
+| `projects/` | Ongoing and finished personal projects |
 | `notes/` | Research and study materials |
 | `logs/` | Daily activity and progress |
 
