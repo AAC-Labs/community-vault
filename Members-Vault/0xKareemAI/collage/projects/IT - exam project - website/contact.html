@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact | IT Lab Exam</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>Get In Touch</h1>
+        <p>Send us a message and we'll get back to you</p>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+
+    <main>
+        <!-- Inline CSS Requirement -->
+        <h2 style="color: #b21f1f; text-decoration: underline; text-align: center;">Contact Form</h2>
+        <p class="text-center">Please fill out the form below for validation testing.</p>
+
+        <section id="contact-section">
+            <form id="examForm" action="#" method="POST">
+                <div class="container">
+                    <label for="fullName">Full Name:</label><br>
+                    <input type="text" id="fullName" name="fullName" placeholder="Enter your name" style="width: 100%; padding: 10px; margin: 10px 0; border: 1px solid #ccc; border-radius: 4px;"><br>
+
+                    <label for="email">University Email:</label><br>
+                    <input type="email" id="email" name="email" placeholder="example@azhar.adu.eg" style="width: 100%; padding: 10px; margin: 10px 0; border: 1px solid #ccc; border-radius: 4px;"><br>
+
+                    <label for="password">Password (Min 8 characters):</label><br>
+                    <input type="password" id="password" name="password" placeholder="Enter password" style="width: 100%; padding: 10px; margin: 10px 0; border: 1px solid #ccc; border-radius: 4px;"><br>
+
+                    <button type="submit" class="btn" style="width: 100%; margin-top: 15px;">Submit Form</button>
+                </div>
+            </form>
+            <div id="error-message" style="color: red; margin-top: 15px; text-align: center; font-weight: bold;"></div>
+            <div id="success-message" style="color: green; margin-top: 15px; text-align: center; font-weight: bold;"></div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 IT Lab Project. All Rights Reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
